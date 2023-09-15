@@ -12,3 +12,19 @@
 # git branch -M main
 # git remote add origin https://github.com/picko2003/"git Repo name".git
 # git push -u origin main
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+# if first setup in gitHub , follow this steps:
+
+# git config --global user.name "gitHub userName"
+# git config --global user.email "gitHub Email"
+# git config --list ( if show status)
+#
+#
