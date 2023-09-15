@@ -28,3 +28,20 @@
 # git config --list ( if show status)
 #
 #
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+.<br>
+# git error: eturned error: 403
+#
+
+# open CMD
+# 1) git config user.name "Ashish(any name)"
+# 2) git config credential.username "picko2003(new AC username)"
+# 3) git push -u origin main
+
